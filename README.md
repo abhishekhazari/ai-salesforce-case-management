@@ -32,12 +32,12 @@ This project integrates Salesforce with OpenAI to automate case handling using A
 ##  Architecture
 Case Created → Trigger → Queueable Apex → OpenAI API → Case Updated
 
-## 🔐 Security
+##  Security
 API keys are removed from this repository.
 
 ##  Results / Impact
-- ⚡ Reduced manual effort in case handling and response drafting  
-- 🎯 Improved accuracy and consistency in case prioritization  
-- ⏱️ Faster response times with AI-generated suggestions  
-- 🤖 Enabled intelligent automation within Salesforce workflows  
-- 🧠 Demonstrated real-world AI + CRM integration capability  
+-  Reduced manual effort in case handling and response drafting  
+-  Improved accuracy and consistency in case prioritization  
+-  Faster response times with AI-generated suggestions  
+-  Enabled intelligent automation within Salesforce workflows  
+-  Demonstrated real-world AI + CRM integration capability  
